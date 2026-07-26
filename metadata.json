@@ -1,0 +1,6 @@
+{
+  "name": "JAC Test Hub",
+  "description": "Premium Android application for Jharkhand Academic Council (JAC) students featuring Mock Tests, Notes, PYQs, Daily Quizzes, and Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
